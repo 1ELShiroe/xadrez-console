@@ -1,0 +1,14 @@
+C:\Users\Nivaldeir\source\repos\curso\curso\bin\Debug\netcoreapp3.1\curso.exe
+C:\Users\Nivaldeir\source\repos\curso\curso\bin\Debug\netcoreapp3.1\curso.deps.json
+C:\Users\Nivaldeir\source\repos\curso\curso\bin\Debug\netcoreapp3.1\curso.runtimeconfig.json
+C:\Users\Nivaldeir\source\repos\curso\curso\bin\Debug\netcoreapp3.1\curso.runtimeconfig.dev.json
+C:\Users\Nivaldeir\source\repos\curso\curso\bin\Debug\netcoreapp3.1\curso.dll
+C:\Users\Nivaldeir\source\repos\curso\curso\bin\Debug\netcoreapp3.1\curso.pdb
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.csproj.AssemblyReference.cache
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.AssemblyInfoInputs.cache
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.AssemblyInfo.cs
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.csproj.CoreCompileInputs.cache
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.dll
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.pdb
+C:\Users\Nivaldeir\source\repos\curso\curso\obj\Debug\netcoreapp3.1\curso.genruntimeconfig.cache
